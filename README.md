@@ -9,16 +9,16 @@ Added to Problems
 
 Problem - 01 : 
 
-  npm install
+  ```npm install```
 
   
-  npm start
+  ```npm start```
 
   
-  cd backend
+  ```cd backend```
 
   
-  node index.js
+  ```node index.js```
 
 
   Problem - 02 :
